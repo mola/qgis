@@ -7774,7 +7774,7 @@ Ignore errors?</source>
     <message>
         <location filename="../src/app/qgisappinterface.cpp" line="399"/>
         <source>Attributes changed</source>
-        <translation type="unfinished"></translation>
+        <translation>ویژگیهای تغییر داده شده</translation>
     </message>
 </context>
 <context>
@@ -7952,7 +7952,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../src/app/qgsannotationwidget.cpp" line="111"/>
         <source>Select frame color</source>
-        <translation type="unfinished"></translation>
+        <translation>انتخاب رنگ چهارچوب</translation>
     </message>
 </context>
 <context>
@@ -8215,7 +8215,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../src/app/qgsattributedialog.cpp" line="204"/>
         <source>Attributes - %1</source>
-        <translation type="unfinished"></translation>
+        <translation>ویژگی‌ها - %1</translation>
     </message>
 </context>
 <context>
@@ -8335,7 +8335,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../src/app/attributetable/qgsattributetabledelegate.cpp" line="110"/>
         <source>Attribute changed</source>
-        <translation type="unfinished"></translation>
+        <translation>ویژگیهای تغییر داده شده</translation>
     </message>
 </context>
 <context>
@@ -8596,7 +8596,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../src/app/attributetable/qgsattributetablemodel.cpp" line="505"/>
         <source>Attributes changed</source>
-        <translation type="unfinished"></translation>
+        <translation>ویژگیهای تغییر داده شده</translation>
     </message>
 </context>
 <context>
@@ -9886,7 +9886,7 @@ Should the existing classes be deleted before classification?</source>
     <message>
         <location filename="../src/core/composer/qgscomposerlegend.cpp" line="32"/>
         <source>Legend</source>
-        <translation type="unfinished"></translation>
+        <translation>رسته</translation>
     </message>
 </context>
 <context>
@@ -9907,7 +9907,7 @@ Should the existing classes be deleted before classification?</source>
     <message>
         <location filename="../src/ui/qgscomposerlegendlayersdialogbase.ui" line="14"/>
         <source>Add layer to legend</source>
-        <translation type="unfinished"></translation>
+        <translation>اضافه کردن لابه به رسته</translation>
     </message>
 </context>
 <context>
@@ -12177,7 +12177,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../src/ui/qgsdelattrdialogbase.ui" line="13"/>
         <source>Delete Attributes</source>
-        <translation type="unfinished"></translation>
+        <translation>حذف ویژگی‌ها</translation>
     </message>
 </context>
 <context>
@@ -12607,7 +12607,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../src/app/qgsfeatureaction.cpp" line="51"/>
         <source>Run actions</source>
-        <translation type="unfinished"></translation>
+        <translation>اجرای عملیات</translation>
     </message>
 </context>
 <context>
