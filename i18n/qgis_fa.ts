@@ -1390,57 +1390,57 @@ Are you sure you want to proceed?</source>
     <message>
         <location filename="../src/ui/qgssymbolv2propertiesdialogbase.ui" line="14"/>
         <source>Symbol properties</source>
-        <translation type="unfinished"></translation>
+        <translation>مشخصات نماد</translation>
     </message>
     <message>
         <location filename="../src/ui/qgssymbolv2propertiesdialogbase.ui" line="20"/>
         <source>Symbol layers</source>
-        <translation type="unfinished"></translation>
+        <translation>لایه‌های نماد</translation>
     </message>
     <message>
         <location filename="../src/ui/qgssymbolv2propertiesdialogbase.ui" line="31"/>
         <source>Symbol layer type</source>
-        <translation type="unfinished"></translation>
+        <translation>نوع لایه نماد</translation>
     </message>
     <message>
         <location filename="../src/ui/qgssymbolv2propertiesdialogbase.ui" line="49"/>
         <source>Symbol layer properties</source>
-        <translation type="unfinished"></translation>
+        <translation>مشخصات لایه نماد</translation>
     </message>
     <message>
         <location filename="../src/ui/qgssymbolv2propertiesdialogbase.ui" line="65"/>
         <source>This symbol layer doesn&apos;t have GUI for settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>این لایه نماد رابط کاربری گرافیکی برای تنظیمات ندارد.</translation>
     </message>
     <message>
         <location filename="../src/ui/qgssymbolv2propertiesdialogbase.ui" line="99"/>
         <source>Add symbol layer</source>
-        <translation type="unfinished"></translation>
+        <translation>اضافه کردن لایه نماد</translation>
     </message>
     <message>
         <location filename="../src/ui/qgssymbolv2propertiesdialogbase.ui" line="112"/>
         <source>Remove symbol layer</source>
-        <translation type="unfinished"></translation>
+        <translation>حذف لایه نماد</translation>
     </message>
     <message>
         <location filename="../src/ui/qgssymbolv2propertiesdialogbase.ui" line="141"/>
         <source>Lock layer&apos;s color</source>
-        <translation type="unfinished"></translation>
+        <translation>قفل کردن رنگهای لایه</translation>
     </message>
     <message>
         <location filename="../src/ui/qgssymbolv2propertiesdialogbase.ui" line="173"/>
         <source>Move up</source>
-        <translation type="unfinished"></translation>
+        <translation>جابجایی به بالا</translation>
     </message>
     <message>
         <location filename="../src/ui/qgssymbolv2propertiesdialogbase.ui" line="186"/>
         <source>Move down</source>
-        <translation type="unfinished"></translation>
+        <translation>جابجایی به پایین</translation>
     </message>
     <message>
         <location filename="../src/ui/qgssymbolv2propertiesdialogbase.ui" line="195"/>
         <source>Symbol preview</source>
-        <translation type="unfinished"></translation>
+        <translation>پیش نمایشی از نماد</translation>
     </message>
 </context>
 <context>
@@ -6893,7 +6893,7 @@ Please contact the developers.
     <message>
         <location filename="../src/app/qgisapp.cpp" line="2308"/>
         <source>Overview</source>
-        <translation type="unfinished"></translation>
+        <translation>بررسی اجمالی</translation>
     </message>
     <message>
         <location filename="../src/app/qgisapp.cpp" line="2368"/>
@@ -6903,7 +6903,7 @@ Please contact the developers.
     <message>
         <location filename="../src/app/qgisapp.cpp" line="2369"/>
         <source>Layers</source>
-        <translation type="unfinished"></translation>
+        <translation>لایه‌ها</translation>
     </message>
     <message>
         <location filename="../src/app/qgisapp.cpp" line="2409"/>
@@ -6978,7 +6978,7 @@ This binary was compiled against Qt %1,and is currently running against Qt %2</s
     <message>
         <location filename="../src/app/qgisapp.cpp" line="2633"/>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation>نسخه</translation>
     </message>
     <message utf8="true">
         <location filename="../src/app/qgisapp.cpp" line="2634"/>
